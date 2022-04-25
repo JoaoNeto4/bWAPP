@@ -14,8 +14,8 @@ bWAPP curso SQL Injection
   
 Se certificar de que as informações estão corretas no arquivo de configuração:
 
-      /admin/settings.php
+      */admin/settings.php
       
-Navegar até até /localhost/bWAPP/install.php e clicar em 'install'.
+Navegar até até localhost/bWAPP/install.php e clicar em 'install'.
 
 
